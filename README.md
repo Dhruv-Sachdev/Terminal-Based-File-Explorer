@@ -25,7 +25,7 @@ c. User can navigate up and down in the file list using the corresponding up and
 2. **Open directories and files**
 When enter key is pressed -\
 a. Directory - Clears the screen and navigates into the directory and shows the directory
-contents as specified in point 1\
+contents as specified in point 1
 b. File - Opens the file in vi editor\
 3. **Traversal**\
 a. **Go back** - Left arrow key takes the user to the previously visited directory\
@@ -35,7 +35,7 @@ d. **Home** - H key takes the user to the home folder (the folder where the appl
 
 ## Command Mode:
 The application enters the Command button whenever “:” (colon) key is pressed. In the command
-mode, the user can enter different commands. All commands appear in the status bar at the bottom.\
+mode, the user can enter different commands. All commands appear in the status bar at the bottom.
 1. **Copy** - ‘copy <source_file(s)> <destination_directory>’\
 **Move** - ‘move <source_file(s)> <destination_directory>’\
 **Rename** - ‘rename <old_filename> <new_filename>’\
