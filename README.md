@@ -4,7 +4,6 @@ Terminal Based File Explorer with a limited feature set
 ## Objective:
 Build a fully functional File Explorer Application, albeit with a restricted feature set.
 
-## Features
 The file explorer works in two modes:
 1. Normal mode (default mode) - used to explore the current directory and navigate the filesystem
 2. Command mode - used to enter shell commands
@@ -15,10 +14,10 @@ Normal mode is the default mode of the application. It has the following functio
 1. **Display** a list of directories and files in the current folder
 a. Every file in the directory is displayed on a new line with the following attributes
 for each file -
-i. **File Name**
-ii. **File Size**
-iii. **Ownership (user and group) and Permissions**
-iv. **Last modified**
+i. **File Name**\
+ii. **File Size**\
+iii. **Ownership (user and group) and Permissions**\
+iv. **Last modified**\
 All of this is displayed in human readable format
 b. The file explorer shows entries **.** and **\.\.** for current and parent directory respectively
 c. User can navigate up and down in the file list using the corresponding up and down arrow keys
