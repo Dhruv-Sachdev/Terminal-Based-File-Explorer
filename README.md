@@ -22,7 +22,7 @@ All of this is displayed in human readable format
 b. The file explorer shows entries **.** and **\.\.** for current and parent directory respectively\
 c. User can navigate up and down in the file list using the corresponding up and down arrow keys
 
-2. **Open directories and files**\
+2. **Open directories and files**
 When enter key is pressed -\
 a. Directory - Clears the screen and navigates into the directory and shows the directory
 contents as specified in point 1\
@@ -33,7 +33,7 @@ b. **Go forward** - Right arrow key takes the user to the next directory\
 c. **Up one level** - Backspace key takes the user up one level\
 d. **Home** - H key takes the user to the home folder (the folder where the application was started)
 
-## Command Mode:\
+## Command Mode:
 The application enters the Command button whenever “:” (colon) key is pressed. In the command
 mode, the user can enter different commands. All commands appear in the status bar at the bottom.\
 1. **Copy** - ‘copy <source_file(s)> <destination_directory>’\
