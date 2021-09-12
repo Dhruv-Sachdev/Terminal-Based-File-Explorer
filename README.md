@@ -4,6 +4,7 @@ Terminal Based File Explorer with a limited feature set
 ## Objective:
 Build a fully functional File Explorer Application, albeit with a restricted feature set.
 
+## Features
 The file explorer works in two modes:
 1. Normal mode (default mode) - used to explore the current directory and navigate the filesystem
 2. Command mode - used to enter shell commands
