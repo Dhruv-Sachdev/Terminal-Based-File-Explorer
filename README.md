@@ -25,8 +25,9 @@ c. User can navigate up and down in the file list using the corresponding up and
 2. **Open directories and files**
 When enter key is pressed -\
 a. Directory - Clears the screen and navigates into the directory and shows the directory
-contents as specified in point 1
-b. File - Opens the file in vi editor\
+contents as specified in point 1\
+b. File - Opens the file in vi editor
+
 3. **Traversal**\
 a. **Go back** - Left arrow key takes the user to the previously visited directory\
 b. **Go forward** - Right arrow key takes the user to the next directory\
