@@ -13,12 +13,13 @@ The root of the application is the directory where the application is started. T
 Normal mode is the default mode of the application. It has the following functionalities -
 1. **Display** a list of directories and files in the current folder
 a. Every file in the directory is displayed on a new line with the following attributes
-for each file -\
+for each file
+
 i. **File Name**\
 ii. **File Size**\
 iii. **Ownership (user and group) and Permissions**\
 iv. **Last modified**\
-All of this is displayed in human readable format
+All of this is displayed in human readable format\
 b. The file explorer shows entries **.** and **\.\.** for current and parent directory respectively\
 c. User can navigate up and down in the file list using the corresponding up and down arrow keys
 
